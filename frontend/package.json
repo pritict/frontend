@@ -16,7 +16,7 @@
     "vue-moment": "^4.1.0",
     "vue-momentjs": "^1.0.0",
     "vue-router": "^3.4.2",
-    "vuetify": "^2.3.7"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.4",
